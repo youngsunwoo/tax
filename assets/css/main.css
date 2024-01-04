@@ -221,9 +221,9 @@ section {
     padding: 6px 20px;
   }
 
-  .header .navmenu {
+  /* .header .navmenu {
     order: 3;
-  }
+  } */
 }
 
 /* Global Header on page scroll
