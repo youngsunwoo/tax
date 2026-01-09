@@ -1087,12 +1087,15 @@ section {
   color: rgba(var(--default-color-rgb), 0.6);
 }
 
-/* Services Section - Home Page
+/* Location Section - Home Page
 ------------------------------*/
 
-.services {
+.location {
   --background-color: #f4f4f4;
 }
+
+/* Services Section - Home Page
+------------------------------*/
 
 
 .services .service-item {
