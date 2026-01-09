@@ -2924,8 +2924,8 @@ section {
   color: var(--contrast-color);
   background-color: rgba(var(--primary-color-rgb), 0.8);
 }
-/* custom 조절 */
+
 .plus::after {
   content: "++";
-  margin-left: 2px; /* 간격 조절 */
+  margin-left: 2px;
 }
